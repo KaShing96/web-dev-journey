@@ -1,0 +1,30 @@
+body {
+    width: 50%;
+    min-width: 500px;
+    margin: 0 auto;
+    border: 16px solid #bdc3c7;
+    padding: 20px;
+    font-size: 1em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+    text-transform: uppercase;
+    color: #3498db;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+div div div {
+    margin-bottom: 5px;
+}
+
+div div div:nth-of-type(1) {
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5px;
+}
