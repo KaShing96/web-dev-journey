@@ -6,3 +6,9 @@ This is a Udemy course found [here](https://www.udemy.com/course/the-web-develop
 
 ## Tic Tac Toe Board
 A tic tac toe board.
+
+## CSS Blog
+A blog styled with CSS.
+
+## Image Gallery
+An image gallery website styled with Bootstrap.
