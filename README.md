@@ -11,4 +11,7 @@ A tic tac toe board.
 A blog styled with CSS.
 
 ## Image Gallery
-An image gallery website styled with Bootstrap.
+An image gallery website styled with Bootstrap. Bootstrap 4 was accidentally used in place of Bootstrap 3 but the objective is still achieved.
+
+## Startup Landing Page
+A startup landing page styled with Bootstrap 3.
