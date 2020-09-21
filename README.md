@@ -15,3 +15,6 @@ An image gallery website styled with Bootstrap. Bootstrap 4 was accidentally use
 
 ## Startup Landing Page
 A startup landing page styled with Bootstrap 3.
+
+## Color Picking Game
+HTML, CSS, and Javascript to make a color picking game.
